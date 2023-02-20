@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url(img/blockblack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.photo_profile{
+    width: 175px;
+    border-radius: 90px;
+    border: 2px solid rgba(11,39,242,1);
+    box-shadow: 0px 0px 15px rgba(235,10,237,1);
+}
+
+.info_home{
+    text-align: center;
+    margin-top: 15px;
+}
+
+h1,h2{
+    margin-top: 10px;
+}
+
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.contact img{
+    width: 60px;
+}
+
+
+.interactive{
+    text-align: center;
+    margin: 15px 15px 15px;
+}
+
+.interactive img{
+    width: 40px;
+    margin-bottom: 5px;
+    
+}
+
+.interactive ul{
+    display: block;
+    justify-content: center;
+    list-style: none;
+}
+
+.interactive li{
+    margin: 10px;
+    
+}
+
+.interactive li a{
+    border-radius: 40px;
+    background-color: black;
+    display: block;
+    padding: 20px;
+    text-shadow: 0 0 1px white;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+span{
+    color: white;
+    margin-top: 5px;
+}
