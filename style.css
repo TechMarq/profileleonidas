@@ -13,7 +13,7 @@ body{
 }
 
 .photo_profile{
-    width: 175px;
+    width: 165px;
     border-radius: 90px;
     border: 2px solid rgba(11,39,242,1);
     box-shadow: 0px 0px 15px rgba(235,10,237,1);
@@ -21,11 +21,11 @@ body{
 
 .info_home{
     text-align: center;
-    margin-top: 15px;
+    margin-top: 25px;
 }
 
 h1,h2{
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .contact{
@@ -65,7 +65,7 @@ h1,h2{
     border-radius: 40px;
     background-color: black;
     display: block;
-    padding: 20px;
+    padding: 10px;
     text-shadow: 0 0 1px white;
     text-decoration: none;
     margin-bottom: 5px;
